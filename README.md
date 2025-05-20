@@ -10,7 +10,7 @@ I built this project to sharpen my financial modeling, valuation, and equity res
 
 The objective of this project was to develop a **robust and insightful financial model** that not only reflects DMart’s historical financials but also helps forecast its future trajectory using sound assumptions and valuation techniques.
 
- NSE: DMART | BSE: 540376  
+NSE: DMART | BSE: 540376  
 Industry: Retail | Focus: Value Retailing | Country: India
 
 ---
@@ -23,20 +23,20 @@ This project isn't just about numbers; it's about deriving insights. Here's what
 
 *   **📈 Historical Financial Performance Review:**
     *   Analysis of Income Statements, Balance Sheets, and Cash Flow Statements.
-    *   **Common Size Analysis:** (Pages 2) Trend analysis of revenue drivers, cost structures, and balance sheet composition over 10 years (Mar-15 to Mar-24).
-    *   **Ratio Analysis:** (Page 7) Comprehensive tracking of profitability, efficiency, liquidity, solvency, and growth ratios, visualized with trend lines.
+    *   **Common Size Analysis:**  Trend analysis of revenue drivers, cost structures, and balance sheet composition over 10 years (Mar-15 to Mar-24).
+    *   **Ratio Analysis:** Comprehensive tracking of profitability, efficiency, liquidity, solvency, and growth ratios, visualized with trend lines.
 
 *   **🔑 Core Financial Modeling:**
-    *   **3-Statement Model Foundation:** (Pages 9-11) Integrated historicals forming the base for projections.
-    *   **Forecasting:** (Page 12) Projections for Sales, EBITDA, and EPS using weighted historical growth and informed assumptions.
-    *   **Return on Invested Capital (ROIC):** (Page 6) Calculation and analysis of historical and projected ROIC, including reinvestment rates and intrinsic growth.
+    *   **3-Statement Model Foundation:**  Integrated historicals forming the base for projections.
+    *   **Forecasting:**  Projections for Sales, EBITDA, and EPS using weighted historical growth and informed assumptions.
+    *   **Return on Invested Capital (ROIC):** Calculation and analysis of historical and projected ROIC, including reinvestment rates and intrinsic growth.
 
 *   **⚖️ Valuation Deep Dive:**
-    *   **Discounted Cash Flow (DCFF):** (Page 13) Detailed Free Cash Flow to Firm (FCFF) model, including terminal value calculation and sensitivity analysis based on WACC and growth rates.
-    *   **Comparable Company Analysis (Relative Valuation):** (Page 4) Benchmarking DMart against industry peers using key multiples like EV/Revenue, EV/EBITDA, and P/E.
-    *   **Weighted Average Cost of Capital (WACC):** (Page 8) Detailed WACC calculation using peer company data, beta derivation, and target capital structure.
-    *   **Beta Calculation:** (Pages 5) 2-Year Weekly Regression Beta derived against the Nifty index, including adjusted beta.
-    *   **Valuation Summary (Football Field):** (Page 3) A consolidated view of valuation ranges from different methodologies (Comps, DCF Bear/Base/Bull, 52W H/L).
+    *   **Discounted Cash Flow (DCFF):**  Detailed Free Cash Flow to Firm (FCFF) model, including terminal value calculation and sensitivity analysis based on WACC and growth rates.
+    *   **Comparable Company Analysis (Relative Valuation):**  Benchmarking DMart against industry peers using key multiples like EV/Revenue, EV/EBITDA, and P/E.
+    *   **Weighted Average Cost of Capital (WACC):**  Detailed WACC calculation using peer company data, beta derivation, and target capital structure.
+    *   **Beta Calculation:**  2-Year Weekly Regression Beta derived against the Nifty index, including adjusted beta.
+    *   **Valuation Summary (Football Field):**  A consolidated view of valuation ranges from different methodologies (Comps, DCF Bear/Base/Bull, 52W H/L).
 *   **📉 Risk Assessment:**
     *   Implicitly through beta calculation and sensitivity analysis in the DCF.
 
