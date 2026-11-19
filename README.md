@@ -1,6 +1,6 @@
 # Financial Model of DMart (Avenue Supermarts Ltd)
 
-Hi, I'm Bhavna Yadav, and this repository contains a complete financial modeling and valuation project for **DMart (Avenue Supermarts Limited)**—one of India’s leading and fastest-growing retail chains.
+Hi, I'm Bhavna Yadav, and this repository contains a complete financial modeling and valuation project for **DMart (Avenue Supermarts Limited)**, one of India’s leading and fastest-growing retail chains.
 
 I built this project to sharpen my financial modeling, valuation, and equity research skills by deep-diving into a real company. It includes an integrated Excel model and a detailed report that breaks down everything from historical performance to valuation insights.
 
