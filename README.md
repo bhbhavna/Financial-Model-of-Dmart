@@ -41,6 +41,20 @@ This project isn't just about numbers; it's about deriving insights. Here's what
     *   Implicitly through beta calculation and sensitivity analysis in the DCF.
 
 
+## Model update (November 2026)
+
+I reviewed the Excel model again and corrected these issues. Every change is listed on the **Fix Log** sheet, and each changed cell has a comment.
+
+* **Change in working capital:** the sign was reversed, so a fall in working capital was counted as extra reinvestment.
+* **Comparable companies:** peer statistics now exclude DMart itself.
+* **Terminal value:** the year after the forecast now grows at the terminal growth rate (it was using the 5-year high growth rate), and the terminal value is discounted 5 full years.
+* **Market return for the cost of equity:** now the compound annual return of the index plus dividend yield. It was a simple average of yearly returns, which overstates long-run returns, and the dividend yield was stored as text.
+* **Tax rate:** WACC now uses 25%, the same as the DCF (it was 30%).
+* **Sales, EBITDA and EPS forecast:** now a constant-growth trend (`GROWTH`). The straight-line `FORECAST` put FY25 below FY24.
+* **Football field:** now linked to the comps sheet and the DCF sensitivity table instead of typed numbers.
+
+The PDF report in this repository shows the original version of the model.
+
 ## ⚠️ Disclaimer
 
 This project is for educational and illustrative purposes only. The analysis is based on publicly available data and personal assumptions. It should not be considered financial advice or a recommendation to invest.
